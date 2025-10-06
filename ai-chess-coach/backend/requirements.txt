@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-chess
+stockfish
+openai
+python-dotenv
